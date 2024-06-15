@@ -4,11 +4,13 @@ import time
 
 import base64
 
-# To use a local image, but i believe, if a json file is used, the image can be stored in the json file.. dunno, will find out
-with open("flat-design-illustration-wallpaper-preview.jpg", "rb") as f:
-    data = f.read()
-    encoded = base64.b64encode(data)
-data = "data:image/png;base64," + encoded.decode("utf-8")
+# # To use a local image, but i believe, if a json file is used, the image can be stored in the json file.. dunno, will find out
+# with open("flat-design-illustration-wallpaper-preview.jpg", "rb") as f:
+#     data = f.read()
+#     encoded = base64.b64encode(data)
+# data = "data:image/png;base64," + encoded.decode("utf-8")
+
+data = "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1953206469.jpg?c=16x9&q=w_800,c_fill"
 
 
 def card1():  ## inspired by https://github.com/gamcoh/st-card

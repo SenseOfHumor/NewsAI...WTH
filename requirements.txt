@@ -2,3 +2,4 @@ streamlit
 streamlit_card
 google-generativeai
 python-dotenv
+newsapi-python

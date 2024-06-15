@@ -35,4 +35,5 @@ def card1():  ## inspired by https://github.com/gamcoh/st-card
 
 if st.button("show card"):  # function call to test the functionality of the card
     card1()
-
+    from skeletonTest import skeleton
+    skeleton()

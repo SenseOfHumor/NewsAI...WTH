@@ -32,28 +32,28 @@ def fetch_news(api_key):
         print(f"Error fetching news: {e}")
         return None
 
-# def getNews():
-#     # Fetch news articles from a random page
-#     articles = fetch_news(NEWS_API_KEY)
-#     if articles:
-#         print("Latest news articles:")
-#         for idx, article in enumerate(articles, start=1):
-#             title = article['title']
-#             description = article['description']
-#             url = article['url']
-#             image_url = article['urlToImage']
+def getNews():
+    # Fetch news articles from a random page
+    articles = fetch_news(NEWS_API_KEY)
+    if articles:
+        print("Latest news articles:")
+        for idx, article in enumerate(articles, start=1):
+            title = article['title']
+            description = article['description']
+            url = article['url']
+            image_url = article['urlToImage']
 
-#             # # Print formatted output
-#             # print()
-#             # print(f"Header: {title}")
-#             # print(f"Description: {description}")
-#             # print(f"URL: {url}")
-#             # print(f"Image: {image_url}")
-#             # print("_" * 50)  # Separator for readability
+            # # Print formatted output
+            # print()
+            # print(f"Header: {title}")
+            # print(f"Description: {description}")
+            # print(f"URL: {url}")
+            # print(f"Image: {image_url}")
+            # print("_" * 50)  # Separator for readability
 
-#             return title, description, url, image_url
-#     else:
-#         print("No news articles fetched.")
+            return description
+    else:
+        print("No news articles fetched.")
 
 # function to get the title
 def getTitle():
@@ -94,6 +94,8 @@ def getImage():
         return image_url
     else:
         print("No news articles fetched.")
+
+
 
 # test the functions
 print(getTitle())

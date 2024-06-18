@@ -68,7 +68,8 @@ def ai_summary(newsTitle, newsDescription):
     to be short and to the point
     The format should be: the news title but rewritten in an indulging way
     and your summary from the next line, like a professional news article.
-    You will not mention the word "title" or "description" or "summary" in your response, NEVER.
+    You will not mention the word "title" or "description" or "summary" in your response AND KEEP THE SUMMARY SHORT.
+    YOU WILL ONLY RESPOND WITH THE SUMMARY IN TEXT FORMAT AND NOTHING ELSE.
     newsTitle:{newsTitle} newsDescription:{newsDescription}"""
 
     context = context.format(newsTitle=newsTitle, newsDescription=newsDescription)
@@ -80,26 +81,23 @@ def ai_summary(newsTitle, newsDescription):
 ################################################################################################
 
 # Streamlit UI
-st.title("MindFeed")
-st.write("Treat your mind to the latest news articles.")
+#st.title("MindFeed")
+#positioning the title
+st.markdown("<h1 style='text-align: center; color: white;'>MindFeed 🧠</h1>", unsafe_allow_html=True)
+#st.write("Treat your mind to the latest news articles.")
+#positioning the subtitle
+st.markdown("<h3 style='text-align: center; color: white;'>A Treat for you mind.</h3>", unsafe_allow_html=True)
 st.write("_" * 50)
 
 
-
-if st.button("show card"): 
-
+if st.button("Get News"): 
     newsTitle = getTitle()
     newsDescription = getDescription()
     newsUrl = getURL()
     newsImage = getImage()
-
     card()
-    st.write(ai_summary(newsTitle, newsDescription))
-    st.write("Read more [here](" + newsUrl + ")")
-    
-    
+    with st.spinner('✨Thinking...'):
+            summary = ai_summary(newsTitle, newsDescription)
 
-
-
-
-
+            st.write(summary)
+            st.write("Read more [here](" + newsUrl + ")")

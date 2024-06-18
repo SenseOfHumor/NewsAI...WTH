@@ -20,7 +20,7 @@ model = genai.GenerativeModel('gemini-pro')
 # ## initializing the message history
 # if "messages" not in st.session_state:
 #     st.session_state.messages = []
-
+#why is it not working?
 
 
 def generate_summary():

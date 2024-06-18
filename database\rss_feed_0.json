@@ -1,0 +1,1109 @@
+{
+    "rss": {
+        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@version": "2.0",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "channel": {
+            "title": "BBC News",
+            "description": "BBC News - Technology",
+            "link": "https://www.bbc.co.uk/news/technology",
+            "image": {
+                "url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+                "title": "BBC News",
+                "link": "https://www.bbc.co.uk/news/technology"
+            },
+            "generator": "RSS for Node",
+            "lastBuildDate": "Tue, 18 Jun 2024 19:35:42 GMT",
+            "atom:link": {
+                "@href": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "copyright": "Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.",
+            "language": "en-gb",
+            "ttl": "15",
+            "item": [
+                {
+                    "title": "Bacon ice cream and nugget overload sees misfiring McDonald's AI withdrawn",
+                    "description": "The voice recognition system seems not to have recognised what customers were really ordering.",
+                    "link": "https://www.bbc.com/news/articles/c722gne7qngo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c722gne7qngo#0"
+                    },
+                    "pubDate": "Tue, 18 Jun 2024 13:06:55 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/d738/live/95618ef0-2d7f-11ef-933f-594e9e9f7991.jpg"
+                    }
+                },
+                {
+                    "title": "Building a $2bn online game by breaking the rules",
+                    "description": "How the Elder Scrolls Online survived a difficult launch to become a quiet gaming success story.",
+                    "link": "https://www.bbc.com/news/articles/c511z0n9gr5o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c511z0n9gr5o#0"
+                    },
+                    "pubDate": "Tue, 18 Jun 2024 03:16:53 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/83ff/live/cec9e440-2c9d-11ef-bdc5-41d7421c2adf.jpg"
+                    }
+                },
+                {
+                    "title": "Software giant Adobe accused of 'trapping customers'",
+                    "description": "Regulators allege Adobe failed to properly disclose subscription terms and made it too onerous to cancel.",
+                    "link": "https://www.bbc.com/news/articles/c98825z8330o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c98825z8330o#0"
+                    },
+                    "pubDate": "Mon, 17 Jun 2024 18:39:18 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/72ed/live/b0aaf780-2cd7-11ef-9a23-9bdc7e739208.jpg"
+                    }
+                },
+                {
+                    "title": "Apple scraps its Pay Later loan scheme",
+                    "description": "It marks a retreat for the technology giant from plans to offer traditional financial services.",
+                    "link": "https://www.bbc.com/news/articles/c255y82y9x8o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c255y82y9x8o#0"
+                    },
+                    "pubDate": "Tue, 18 Jun 2024 03:40:25 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/02cc/live/b7a8e3f0-2d2a-11ef-b511-b95abae5bf80.jpg"
+                    }
+                },
+                {
+                    "title": "US surgeon general wants social media warning labels",
+                    "description": "Vivek Murthy says social media increases the risk that children will experience anxiety and depression.",
+                    "link": "https://www.bbc.com/news/articles/c98821dn27lo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c98821dn27lo#0"
+                    },
+                    "pubDate": "Mon, 17 Jun 2024 14:44:52 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/c69f/live/498b67b0-2caa-11ef-af93-b7f65a764945.png"
+                    }
+                },
+                {
+                    "title": "'Hackers leaked intimate photos after my laptop was stolen'",
+                    "description": "A Spanish filmmaker turned the cameras on herself and made a \"sextortion diary\" after being blackmailed.",
+                    "link": "https://www.bbc.com/news/articles/cmmm75407j9o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cmmm75407j9o#0"
+                    },
+                    "pubDate": "Sun, 16 Jun 2024 23:12:58 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/04b5/live/b57eefd0-298c-11ef-a1fa-1b739acc6f54.jpg"
+                    }
+                },
+                {
+                    "title": "Virtual camera operators: The unsung heroes of esports",
+                    "description": "A different kind of esports pro explains how they capture all the action during tense matches.",
+                    "link": "https://www.bbc.com/news/articles/cl44rk358kro",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cl44rk358kro#0"
+                    },
+                    "pubDate": "Mon, 17 Jun 2024 11:06:16 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/ed4d/live/193c1f80-2c93-11ef-a044-9d4367d5b599.jpg"
+                    }
+                },
+                {
+                    "title": "Is Elon Musk worth his $56bn Tesla pay package?",
+                    "description": "He is beloved by his millions of followers online, but would Musk's businesses have succeeded without him?",
+                    "link": "https://www.bbc.com/news/articles/c9rre6nwnpwo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c9rre6nwnpwo#1"
+                    },
+                    "pubDate": "Fri, 14 Jun 2024 11:49:32 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/ad90/live/76dbb3a0-2a43-11ef-bce4-65851c40d100.jpg"
+                    }
+                },
+                {
+                    "title": "'Mouse jigglers' pretending to work fired by bank",
+                    "description": "Wells Fargo has fired a number of workers, after reviewing claims of fake keyboard activity.",
+                    "link": "https://www.bbc.com/news/articles/cjll01220yeo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cjll01220yeo#1"
+                    },
+                    "pubDate": "Fri, 14 Jun 2024 12:12:34 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/4d14/live/d55b96e0-29ba-11ef-bb45-5329b0342276.jpg"
+                    }
+                },
+                {
+                    "title": "Nasa astronaut distress message broadcast in error",
+                    "description": "Space agency says the clip was from a training exercise which was accidentally put on YouTube,",
+                    "link": "https://www.bbc.com/news/articles/c2jj9855955o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c2jj9855955o#1"
+                    },
+                    "pubDate": "Thu, 13 Jun 2024 10:16:35 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/e620/live/887ccd40-2969-11ef-951f-bfad685c889d.png"
+                    }
+                },
+                {
+                    "title": "Tesla investors back $56bn Musk pay deal",
+                    "description": "The multi-billionaire had campaigned for the payout, which is worth up to $56bn.",
+                    "link": "https://www.bbc.com/news/articles/cleezyxjv4jo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cleezyxjv4jo#1"
+                    },
+                    "pubDate": "Fri, 14 Jun 2024 13:06:13 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/51e8/live/b21b5560-2a2f-11ef-a1fa-1b739acc6f54.jpg"
+                    }
+                },
+                {
+                    "title": "Dan's the man: Why Chinese women are looking to ChatGPT for love",
+                    "description": "A jailbreak version of ChatGPT is becoming popular with women who prefer it to real world dating.",
+                    "link": "https://www.bbc.com/articles/c4nnje9rpjgo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/articles/c4nnje9rpjgo#1"
+                    },
+                    "pubDate": "Thu, 13 Jun 2024 00:53:31 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/a053/live/3cf296a0-27e5-11ef-a13a-0b8c563da930.png"
+                    }
+                },
+                {
+                    "title": "Gaming giant Steam accused of ripping off 14m UK gamers",
+                    "description": "Legal claim alleges Steam's market dominance means consumers are paying too much for video games.",
+                    "link": "https://www.bbc.com/news/articles/cpwwyj6v24xo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cpwwyj6v24xo#2"
+                    },
+                    "pubDate": "Wed, 12 Jun 2024 11:03:28 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/0c29/live/93480860-27da-11ef-baa7-25d483663b8e.jpg"
+                    }
+                },
+                {
+                    "title": "Elon Musk unexpectedly drops case against OpenAI",
+                    "description": "The multi-billionaire Tesla boss filed the lawsuit against the ChatGPT developer at the end of February.",
+                    "link": "https://www.bbc.com/news/articles/cw008xgn49po",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cw008xgn49po#2"
+                    },
+                    "pubDate": "Wed, 12 Jun 2024 04:05:56 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/1239/live/e2168ce0-2853-11ef-a07f-09e6d1fd4403.jpg"
+                    }
+                },
+                {
+                    "title": "College students on life without a smartphone",
+                    "description": "Ten teenagers swap their smartphones for brick phones as part of a week-long digital detox.",
+                    "link": "https://www.bbc.com/news/videos/cp66ylez04ro",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/videos/cp66ylez04ro#2"
+                    },
+                    "pubDate": "Tue, 11 Jun 2024 23:37:54 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/61c7/live/42720b20-2811-11ef-80aa-699d54c46324.jpg"
+                    }
+                },
+                {
+                    "title": "GameStop raises over $2bn after Roaring Kitty rally",
+                    "description": "The company said it had sold all 75 million shares it had offered to investors.",
+                    "link": "https://www.bbc.com/news/articles/cl442gzlmego",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cl442gzlmego#2"
+                    },
+                    "pubDate": "Wed, 12 Jun 2024 03:16:11 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/4be5/live/a091d350-2854-11ef-a07f-09e6d1fd4403.jpg"
+                    }
+                },
+                {
+                    "title": "Genetic testing firm 23andMe investigated over hack",
+                    "description": "Criminals gained access to 6.9 million records when the firm was hacked in October 2023.",
+                    "link": "https://www.bbc.com/news/articles/c3gg17pq5y9o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c3gg17pq5y9o#2"
+                    },
+                    "pubDate": "Mon, 10 Jun 2024 17:21:47 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/e723/live/a98ba530-2746-11ef-8d9c-397f1f1ad902.jpg"
+                    }
+                },
+                {
+                    "title": "Apple brings ChatGPT to iPhones in AI overhaul",
+                    "description": "The company has been slower to roll out generative AI features than rivals including Google and Microsoft.",
+                    "link": "https://www.bbc.com/news/articles/c4nn5mejl89o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c4nn5mejl89o#2"
+                    },
+                    "pubDate": "Tue, 11 Jun 2024 09:31:48 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/1b13/live/1589a5d0-2764-11ef-9d0a-ef8fa1b61375.jpg"
+                    }
+                },
+                {
+                    "title": "O-type blood donors needed after London cyber-attack",
+                    "description": "The NHS says last week's cyber-attack means blood cannot be sorted at the same frequency.",
+                    "link": "https://www.bbc.com/news/articles/c2eeg9gygyno",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c2eeg9gygyno#2"
+                    },
+                    "pubDate": "Mon, 10 Jun 2024 14:53:17 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/9b6f/live/8a698540-26fc-11ef-8b66-b50a998e8ebf.jpg"
+                    }
+                },
+                {
+                    "title": "The AI or real quiz: Euro 2024 edition",
+                    "description": "Do you think you have what it takes to spot the AI images of footballers from the real ones? See if you can spot what's artificial intelligence and what's real.",
+                    "link": "https://www.bbc.co.uk/bitesize/articles/z7bmvj6",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/bitesize/articles/z7bmvj6#2"
+                    },
+                    "pubDate": "Fri, 07 Jun 2024 11:22:18 GMT",
+                    "media:thumbnail": {
+                        "@url": "https://ichef.bbci.co.uk/images/ic/480xn/p0j3k95d.jpg"
+                    }
+                },
+                {
+                    "title": "What we learned from gaming's big weekend",
+                    "description": "Xbox's showcase tops off Summer Game Fest - here are some of the highlights from gaming's big weekend.",
+                    "link": "https://www.bbc.com/news/articles/c8881kndngko",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c8881kndngko#2"
+                    },
+                    "pubDate": "Mon, 10 Jun 2024 10:56:45 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/ff97/live/8c541d90-2704-11ef-baa7-25d483663b8e.jpg"
+                    }
+                },
+                {
+                    "title": "The battle for Gen Z social shoppers",
+                    "description": "If TikTok is banned in the US, where might its social shoppers go?",
+                    "link": "https://www.bbc.com/news/articles/c511p8gdn21o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c511p8gdn21o#2"
+                    },
+                    "pubDate": "Thu, 13 Jun 2024 23:09:47 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/4a0a/live/91ab6850-2409-11ef-894c-a90c371c460d.jpg"
+                    }
+                },
+                {
+                    "title": "Scammers use fake X accounts to impersonate airlines",
+                    "description": "Holidaymakers are warned about scams where fake social media accounts are used to impersonate airlines.",
+                    "link": "https://www.bbc.com/news/articles/cp3371r7l1vo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cp3371r7l1vo#2"
+                    },
+                    "pubDate": "Mon, 10 Jun 2024 00:50:28 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/504f/live/85465c00-2698-11ef-bdf4-1f4fa221bd1a.jpg"
+                    }
+                },
+                {
+                    "title": "Dead in 6 hours: How Nigerian sextortion scammers targeted my son",
+                    "description": "Jenn Buta has been campaigning since her son was targeted by sextortionists in Nigeria - a hotspot for scammers.",
+                    "link": "https://www.bbc.com/news/articles/c2llzppyx05o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c2llzppyx05o#2"
+                    },
+                    "pubDate": "Sun, 09 Jun 2024 00:18:54 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/5ffb/live/81a8f050-21be-11ef-a951-c529a701a554.png"
+                    }
+                },
+                {
+                    "title": "Microsoft 'recalls' screenshot feature after outcry",
+                    "description": "Microsoft will modify a tool on its new AI-powered PCs that had sparked privacy concerns.",
+                    "link": "https://www.bbc.com/news/articles/cd11rje1mrro",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cd11rje1mrro#2"
+                    },
+                    "pubDate": "Fri, 07 Jun 2024 18:39:22 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/0c2f/live/3c9f8db0-24fd-11ef-b14f-5174ab603f44.jpg"
+                    }
+                },
+                {
+                    "title": "'We are creating new crops five-times faster'",
+                    "description": "How artificial intelligence is increasingly helping the arable farming sector.",
+                    "link": "https://www.bbc.com/news/articles/c9xxjx7e2gjo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c9xxjx7e2gjo#2"
+                    },
+                    "pubDate": "Wed, 12 Jun 2024 23:06:31 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "140",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/b70b/live/7bf4c1d0-27d5-11ef-baa7-25d483663b8e.jpg"
+                    }
+                },
+                {
+                    "title": "Down the Rabbit hole: Pocket-sized AI gadget put to the test",
+                    "description": "The R1 is the latest attempt to build AI-powered hardware that challenges our smartphone addiction.",
+                    "link": "https://www.bbc.com/news/articles/ce5571gvl3xo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/ce5571gvl3xo#2"
+                    },
+                    "pubDate": "Fri, 07 Jun 2024 00:09:25 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/c24d/live/be21d130-21b1-11ef-85ff-15f7ec933d42.jpg"
+                    }
+                },
+                {
+                    "title": "Scientists enlist AI to interpret meaning of barks",
+                    "description": "They are also digging into whether AI can tell a dog's age, gender and breed based on the noises it makes.",
+                    "link": "https://www.bbc.com/news/articles/c8887lx1z3vo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c8887lx1z3vo#2"
+                    },
+                    "pubDate": "Thu, 06 Jun 2024 23:06:51 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/07c8/live/1eb20520-240e-11ef-894c-a90c371c460d.jpg"
+                    }
+                },
+                {
+                    "title": "British tech tycoon cleared in US fraud trial",
+                    "description": "Former Autonomy boss Mike Lynch was accused of fraud related to the $11bn sale of his firm to HP.",
+                    "link": "https://www.bbc.com/news/articles/cneel8ed2vvo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cneel8ed2vvo#2"
+                    },
+                    "pubDate": "Fri, 07 Jun 2024 08:53:26 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/7437/live/bca25db0-2491-11ef-9a89-4f45ca826717.png"
+                    }
+                },
+                {
+                    "title": "Xbox donated to charity shop could fetch thousands",
+                    "description": "The green Hulk-branded gaming device is being auctioned by the British Heart Foundation.",
+                    "link": "https://www.bbc.com/news/articles/ce440j9gdl5o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/ce440j9gdl5o#2"
+                    },
+                    "pubDate": "Fri, 07 Jun 2024 05:22:25 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/bba2/live/6fa5b530-2427-11ef-8c0b-a35d12f66366.png"
+                    }
+                },
+                {
+                    "title": "Why is Nvidia boss the 'Taylor Swift of tech'?",
+                    "description": "Jensen Huang is at the forefront of an AI boom, which coincides with Nvidia's rise as a leading chip firm.",
+                    "link": "https://www.bbc.com/news/articles/cq55ek28z98o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cq55ek28z98o#2"
+                    },
+                    "pubDate": "Fri, 07 Jun 2024 04:39:53 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/a9d1/live/380cec00-2496-11ef-baa7-25d483663b8e.jpg"
+                    }
+                },
+                {
+                    "title": "Plans to use Facebook and Instagram posts to train AI criticised",
+                    "description": "Public posts, images and image captions will also be used to develop parent company Meta's AI tools.",
+                    "link": "https://www.bbc.com/news/articles/cw99n3qjeyjo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cw99n3qjeyjo#2"
+                    },
+                    "pubDate": "Thu, 06 Jun 2024 13:21:22 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/3ec8/live/7224dfd0-1f62-11ef-b46c-c12631792e6a.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: Helping our animal friends",
+                    "description": "This edition of Tech Life is all about animals and tech.",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wm7",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wm7#3"
+                    },
+                    "pubDate": "Tue, 11 Jun 2024 19:30:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j3lyv8.jpg"
+                    }
+                },
+                {
+                    "title": "'We are creating new crops five-times faster'",
+                    "description": "How artificial intelligence is increasingly helping the arable farming sector.",
+                    "link": "https://www.bbc.com/news/articles/c9xxjx7e2gjo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c9xxjx7e2gjo#3"
+                    },
+                    "pubDate": "Wed, 12 Jun 2024 23:06:31 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "140",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/b70b/live/7bf4c1d0-27d5-11ef-baa7-25d483663b8e.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: The women dating AI chatbots",
+                    "description": "What is it like to have an AI boyfriend? The women in China who date chatbots.",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wm6",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wm6#3"
+                    },
+                    "pubDate": "Tue, 04 Jun 2024 19:30:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j24y0h.jpg"
+                    }
+                },
+                {
+                    "title": "TikTokers on why they have to delay \u2018adulting\u2019",
+                    "description": "People are taking to the app to highlight the difficulty in achieving \u201ctraditional\u201d milestones.",
+                    "link": "https://www.bbc.com/news/videos/c9wwglpkpl1o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/videos/c9wwglpkpl1o#3"
+                    },
+                    "pubDate": "Fri, 31 May 2024 21:59:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/6ce7/live/ae850130-1f58-11ef-a13a-0b8c563da930.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: Being watched",
+                    "description": "Words of warning about facial recognition, biometrics and artificial intelligence.",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wm5",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wm5#3"
+                    },
+                    "pubDate": "Tue, 28 May 2024 19:30:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0j0t7kf.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: Tackling online abuse of athletes",
+                    "description": "The Olympics turn to AI to try crack down on online abuse aimed at athletes",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wm4",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wm4#3"
+                    },
+                    "pubDate": "Tue, 21 May 2024 19:30:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0hzbx0y.jpg"
+                    }
+                },
+                {
+                    "title": "How phone theft in London was tackled in the 90s",
+                    "description": "In 1994, the boom in mobile phones spawned a crime wave of phone thefts in the capital.",
+                    "link": "https://www.bbc.com/news/videos/cj554qrm6e5o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/videos/cj554qrm6e5o#3"
+                    },
+                    "pubDate": "Tue, 21 May 2024 05:25:18 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/2766/live/756ed3a0-16af-11ef-a5f9-c9e97f2e93cf.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: Help for cancer patients",
+                    "description": "The machine that allows patients to take their own blood samples for analysis from home.",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wm3",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wm3#3"
+                    },
+                    "pubDate": "Tue, 14 May 2024 19:30:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0hy0mtq.jpg"
+                    }
+                },
+                {
+                    "title": "Ros Atkins on... How different countries protect children online",
+                    "description": "BBC Analysis editor Ros Atkins looks at what what is being done to prevent minors seeing harmful content.",
+                    "link": "https://www.bbc.co.uk/news/technology-68994263",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/technology-68994263#3"
+                    },
+                    "pubDate": "Sat, 11 May 2024 05:25:21 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7DBD/production/_133298123_p0hxcgg0.jpg"
+                    }
+                },
+                {
+                    "title": "Protecting under-18s from harmful online content",
+                    "description": "Marianna Spring on how the UK's media regulator wants to protect children from harmful content on social media.",
+                    "link": "https://www.bbc.co.uk/news/uk-68980968",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/uk-68980968#3"
+                    },
+                    "pubDate": "Wed, 08 May 2024 21:13:34 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17A14/production/_133288769_p0hwv4vv.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: The mammoth ivory problem",
+                    "description": "Tech can play a role in combating the illegal trade in elephant ivory.",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wm2",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wm2#3"
+                    },
+                    "pubDate": "Tue, 07 May 2024 19:30:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0hwlfv7.jpg"
+                    }
+                },
+                {
+                    "title": "BBC Verify looks at fake AI-generated Met Gala images",
+                    "description": "Fake pictures of Katy Perry and other artists at the Met Gala went viral on social media.",
+                    "link": "https://www.bbc.co.uk/news/world-68973448",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/world-68973448#3"
+                    },
+                    "pubDate": "Tue, 07 May 2024 17:05:46 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/A74C/production/_133282824_p0hwktbz.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: TikTok world",
+                    "description": "TikTok is a popular video sharing platform, but not so popular with some governments.",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wm1",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wm1#3"
+                    },
+                    "pubDate": "Tue, 30 Apr 2024 19:30:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0hv5rcz.jpg"
+                    }
+                },
+                {
+                    "title": "How fraudsters are getting fake articles onto Facebook",
+                    "description": "Scammers are able to get past automated checks on the social media giant to try to defraud users.",
+                    "link": "https://www.bbc.co.uk/news/business-68843985",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/business-68843985#3"
+                    },
+                    "pubDate": "Wed, 24 Apr 2024 23:08:44 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8DFF/production/_133215363_gettyimages-2082113329.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: Humanoid robots",
+                    "description": "Are they really that practical and useful?",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wm0",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wm0#3"
+                    },
+                    "pubDate": "Tue, 23 Apr 2024 19:30:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0hsnmfr.jpg"
+                    }
+                },
+                {
+                    "title": "Watch Ocado robots in action",
+                    "description": "Ocado has added robotic arms to its newest warehouse near Luton.",
+                    "link": "https://www.bbc.co.uk/news/business-68682920",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/business-68682920#3"
+                    },
+                    "pubDate": "Tue, 23 Apr 2024 01:15:22 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/D4B5/production/_133035445_p0hmfs05.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: Fixing undersea cables",
+                    "description": "Undersea fibre-optic cables help keep us online - but what happens when they break?",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wlz",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wlz#3"
+                    },
+                    "pubDate": "Tue, 16 Apr 2024 19:30:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0hr6bdq.jpg"
+                    }
+                },
+                {
+                    "title": "Robot dog trains to walk on Moon in Oregon trials",
+                    "description": "US engineering team has a two-year, $2m grant to help Nasa study the Moon's surface.",
+                    "link": "https://www.bbc.co.uk/news/world-us-canada-68803774",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/world-us-canada-68803774#3"
+                    },
+                    "pubDate": "Fri, 12 Apr 2024 20:35:38 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/EBD5/production/_133137306_p0hqjx6t.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: Space Junk",
+                    "description": "We look at what space junk is and the risk it poses to tech we use everyday.",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wly",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wly#3"
+                    },
+                    "pubDate": "Tue, 09 Apr 2024 19:32:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0hptbtb.jpg"
+                    }
+                },
+                {
+                    "title": "Tech Life: Predicting the future of tech",
+                    "description": "How will the internet, and other tech we use today, evolve in the future?",
+                    "link": "https://www.bbc.co.uk/sounds/play/w3ct5wlx",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/sounds/play/w3ct5wlx#3"
+                    },
+                    "pubDate": "Tue, 02 Apr 2024 19:30:00 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/images/ic/240x135/p0hndbyj.jpg"
+                    }
+                },
+                {
+                    "title": "Could brain-like computers be a 'competition killer'?",
+                    "description": "Computers built like brains could be much more energy efficient than current designs.",
+                    "link": "https://www.bbc.com/news/articles/cx99qv2w1ddo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cx99qv2w1ddo#4"
+                    },
+                    "pubDate": "Mon, 17 Jun 2024 23:24:11 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/6540/live/ee37e3a0-2cce-11ef-a044-9d4367d5b599.jpg"
+                    }
+                },
+                {
+                    "title": "'Insane' amounts of data spurs new storage tech",
+                    "description": "Storing information with holograms and in glass is being proposed to deal with a deluge of data.",
+                    "link": "https://www.bbc.com/news/articles/cd116m3jyn1o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cd116m3jyn1o#4"
+                    },
+                    "pubDate": "Tue, 11 Jun 2024 23:03:29 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "160",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/5204/live/a9841b40-218c-11ef-baa7-25d483663b8e.jpg"
+                    }
+                },
+                {
+                    "title": "Concern rises over AI in adult entertainment",
+                    "description": "AI in adult entertainment could have negative effects on society and individuals, experts say.",
+                    "link": "https://www.bbc.com/news/articles/c2qqxqgp9yno",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c2qqxqgp9yno#4"
+                    },
+                    "pubDate": "Thu, 06 Jun 2024 23:19:56 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/88bc/live/f5b185f0-217f-11ef-9628-ff2abcc9602e.jpg"
+                    }
+                },
+                {
+                    "title": "Could AI put an end to animal testing?",
+                    "description": "Artificial intelligence systems are increasingly being used to help test new drugs and chemicals.",
+                    "link": "https://www.bbc.com/news/articles/cd110l61r3go",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cd110l61r3go#4"
+                    },
+                    "pubDate": "Wed, 05 Jun 2024 23:05:20 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/db76/live/4a164c20-22f2-11ef-9901-35b855a1d4e1.jpg"
+                    }
+                },
+                {
+                    "title": "Australia wants to become a renewable energy superpower. Can it?",
+                    "description": "The country has come up with an ambitious plan to become the engine room of the new green economy.",
+                    "link": "https://www.bbc.com/news/articles/cp00vyl6l6mo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cp00vyl6l6mo#4"
+                    },
+                    "pubDate": "Tue, 04 Jun 2024 23:10:23 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/0070/live/e6fb9140-1d6a-11ef-bf53-7391f3861154.jpg"
+                    }
+                },
+                {
+                    "title": "Can 'energy hog' hot tubs be greener?",
+                    "description": "Hot tubs are becoming a standard feature at holiday parks, but can they be made more energy efficient?",
+                    "link": "https://www.bbc.com/news/articles/cqllvze3204o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cqllvze3204o#4"
+                    },
+                    "pubDate": "Mon, 03 Jun 2024 23:18:36 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/abcf/live/4f5c71f0-223e-11ef-baa7-25d483663b8e.jpg"
+                    }
+                },
+                {
+                    "title": "Why France's start-up champion has struggled abroad",
+                    "description": "Its appointment booking software is everywhere in France, but Doctolib has struggled to make a dent elsewhere.",
+                    "link": "https://www.bbc.com/news/articles/cyx6xv95n23o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cyx6xv95n23o#4"
+                    },
+                    "pubDate": "Thu, 30 May 2024 23:19:59 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/5275/live/0e6117f0-1910-11ef-b5cc-cb8b8c4cef5a.png"
+                    }
+                },
+                {
+                    "title": "'The chatbot has transformed my life'",
+                    "description": "How AI tools are helping people with neurodiversity live their lives.",
+                    "link": "https://www.bbc.com/news/articles/c7223v5d8lgo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c7223v5d8lgo#4"
+                    },
+                    "pubDate": "Wed, 29 May 2024 23:16:40 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/d05b/live/f330ecb0-1907-11ef-876b-c77a1c45f857.jpg"
+                    }
+                },
+                {
+                    "title": "Why technology has not transformed building",
+                    "description": "New technology has yet to transform homebuilding which is still largely a manual task.",
+                    "link": "https://www.bbc.com/news/articles/c8vzzjqyz5qo",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c8vzzjqyz5qo#4"
+                    },
+                    "pubDate": "Thu, 23 May 2024 23:07:44 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/2ed2/live/b3168b10-1111-11ef-a190-bb979758150a.jpg"
+                    }
+                },
+                {
+                    "title": "'People are just not worried about being scammed'",
+                    "description": "Fraudsters are increasingly using AI, but are people taking the problem seriously enough?",
+                    "link": "https://www.bbc.com/news/articles/c988v355e8do",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c988v355e8do#4"
+                    },
+                    "pubDate": "Wed, 22 May 2024 23:09:19 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "134",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/86cc/live/74c980f0-1775-11ef-a62a-0b5a43c99392.jpg"
+                    }
+                },
+                {
+                    "title": "These elephants are dying on rail tracks - can AI save them?",
+                    "description": "Officials in the Indian state of Tamil Nadu are using AI to monitor elephant movement on rail tracks.",
+                    "link": "https://www.bbc.co.uk/news/world-asia-india-68988189",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/world-asia-india-68988189#4"
+                    },
+                    "pubDate": "Tue, 21 May 2024 03:17:54 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/FDE0/production/_133329946_elephant.jpg"
+                    }
+                },
+                {
+                    "title": "Business locked in expensive AI 'arms race'",
+                    "description": "Business leaders feel pressure to invest in AI but the costs are formidable.",
+                    "link": "https://www.bbc.com/news/articles/cx7dx48ev91o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/cx7dx48ev91o#4"
+                    },
+                    "pubDate": "Thu, 16 May 2024 23:13:50 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/4fbe/live/b32ebf70-13ad-11ef-b9d8-4f52aebe147d.jpg"
+                    }
+                },
+                {
+                    "title": "The man who turned his dead father into a chatbot",
+                    "description": "The \"grief tech\" firms helping users create talking avatars of their dead relatives.",
+                    "link": "https://www.bbc.co.uk/news/business-68944898",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/business-68944898#4"
+                    },
+                    "pubDate": "Wed, 15 May 2024 23:08:07 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/DD15/production/_133279565_gettyimages-1244703813.jpg"
+                    }
+                },
+                {
+                    "title": "Cow dung's key role in India's energy industry",
+                    "description": "India is hoping that biogas, produced from farm waste, will curb its reliance on imported gas.",
+                    "link": "https://www.bbc.com/news/articles/c254ggrry45o",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.com/news/articles/c254ggrry45o#4"
+                    },
+                    "pubDate": "Mon, 13 May 2024 23:06:02 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "161",
+                        "@url": "https://ichef.bbci.co.uk/news/240/cpsprodpb/d9d3/live/4abc9820-0c52-11ef-bee9-6125e244a4cd.jpg"
+                    }
+                },
+                {
+                    "title": "Will AI dream up the hit TV shows of the future?",
+                    "description": "Television production firms admit they are already using AI to come up with new programme ideas.",
+                    "link": "https://www.bbc.co.uk/news/business-68897555",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/business-68897555#4"
+                    },
+                    "pubDate": "Wed, 08 May 2024 23:05:27 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7FFD/production/_133256723_gettyimages-619028346.jpg"
+                    }
+                },
+                {
+                    "title": "How the computer games industry is embracing AI",
+                    "description": "Developing computer games can be wildly expensive so some hope that AI can cut the cost.",
+                    "link": "https://www.bbc.co.uk/news/business-68844761",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/business-68844761#4"
+                    },
+                    "pubDate": "Thu, 02 May 2024 23:07:24 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83C8/production/_133263733_videogame-gettyimages-1345967858.jpg"
+                    }
+                },
+                {
+                    "title": "The insect farmers turning to AI to help lower costs",
+                    "description": "Makers of insect-based animal feed hope to be able to compete with soybeans on price.",
+                    "link": "https://www.bbc.co.uk/news/business-68880241",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/business-68880241#4"
+                    },
+                    "pubDate": "Wed, 01 May 2024 23:05:47 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/CEB0/production/_133221925_gettyimages-1237942962.jpg"
+                    }
+                },
+                {
+                    "title": "After 20 years, what next for World of Warcraft?",
+                    "description": "The game's maker Activision Blizzard was bought by Microsoft last year in gaming's biggest ever acquisition",
+                    "link": "https://www.bbc.co.uk/news/newsbeat-68911356",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/newsbeat-68911356#4"
+                    },
+                    "pubDate": "Mon, 29 Apr 2024 23:52:41 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9AB5/production/_133250693_wow_index_002.jpg"
+                    }
+                },
+                {
+                    "title": "How Chinese firms are using Mexico as a backdoor to the US",
+                    "description": "Chinese firms are racing to set up factories in Mexico to bypass US tariffs and sanctions.",
+                    "link": "https://www.bbc.co.uk/news/business-68825118",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/business-68825118#4"
+                    },
+                    "pubDate": "Sun, 21 Apr 2024 23:01:19 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/871E/production/_133209543_img_5858-1.png"
+                    }
+                },
+                {
+                    "title": "Can AI help solve Japan\u2019s labour shortages?",
+                    "description": "Japan is seeing if artificial intelligence can tackle its increasing shortfall of workers.",
+                    "link": "https://www.bbc.co.uk/news/business-68225115",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "https://www.bbc.co.uk/news/business-68225115#4"
+                    },
+                    "pubDate": "Fri, 19 Apr 2024 21:20:16 GMT",
+                    "media:thumbnail": {
+                        "@width": "240",
+                        "@height": "135",
+                        "@url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11806/production/_133168617_gettyimages-1075467000.jpg"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -11,7 +11,7 @@ import random
 ################################################################################################
 
 
-#Fetching the RSS news feed
+# Fetching the RSS news feed
 def getRSS(url: str) -> dict:
     response = requests.get(url)
     return xmltodict.parse(response.content)
@@ -32,7 +32,7 @@ def getImage():
 
 ################################################################################################
 
-#Card UI
+# Card UI
 def card():  ## inspired by https://github.com/gamcoh/st-card
     data = newsImage
     from streamlit_card import card
@@ -53,26 +53,53 @@ def card():  ## inspired by https://github.com/gamcoh/st-card
 ################################################################################################
 
 
-#Streamlit UI
+# The AI function
+    
+load_dotenv()
+
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+model = genai.GenerativeModel('gemini-pro')
+
+
+def ai_summary(newsTitle, newsDescription):
+
+    context = """You are an expert news summarizer with an ability to 
+    summarize news in a very interesting and indulging way, you have
+    to be short and to the point
+    The format should be: the news title but rewritten in an indulging way
+    and your summary from the next line, like a professional news article.
+    You will not mention the word "title" or "description" or "summary" in your response, NEVER.
+    newsTitle:{newsTitle} newsDescription:{newsDescription}"""
+
+    context = context.format(newsTitle=newsTitle, newsDescription=newsDescription)
+    response = model.generate_content(context, stream = True)
+    response.resolve()
+    return response.text
+
+
+################################################################################################
+
+# Streamlit UI
 st.title("MindFeed")
 st.write("Treat your mind to the latest news articles.")
 st.write("_" * 50)
 
 
 
-if st.button("show card"):  # function call to test the functionality of the card
+if st.button("show card"): 
+
     newsTitle = getTitle()
     newsDescription = getDescription()
     newsUrl = getURL()
     newsImage = getImage()
 
-    st.write(newsTitle)
-    st.write(newsDescription)
-    st.write(newsUrl)
-    st.write(newsImage)
     card()
-
+    st.write(ai_summary(newsTitle, newsDescription))
+    st.write("Read more [here](" + newsUrl + ")")
     
+    
+
+
 
 
 

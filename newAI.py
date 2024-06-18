@@ -26,9 +26,10 @@ model = genai.GenerativeModel('gemini-pro')
 def generate_summary():
     news = getDescription()
     print(news)
-    context = """ You are an expert news analyst and you have been asked to summarize the news. Here is the news:{news} """
+    context = """ You are an expert news analyst and you have been asked to summarize the news. news:{news} """
     summary = model.generate_content(context)
-    st.write(summary)
+    #st.write(summary)
+    return summary
 
 
 
@@ -36,3 +37,6 @@ def generate_summary():
 if st.button("Generate Summary"):
     generate_summary()
     st.write("Summary Generated Successfully")
+
+
+    print(getNews())

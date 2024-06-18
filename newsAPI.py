@@ -9,13 +9,13 @@ load_dotenv()
 NEWS_API_KEY = os.getenv('news_api')
 NEWS_API_ENDPOINT = 'https://newsapi.org/v2/top-headlines'
 
-random_page = random.randint(1, 50)
+random_page = random.randint(1, 10)
 
 def fetch_news(api_key):
     # Specify parameters for the API request
     params = {
         'country': 'us',  # Change this to the desired country code
-        'pageSize': 1,     # Number of articles to fetch
+        'pageSize': random.randint(1, 10),     # Number of articles to fetch
         'page': random_page
     }
     headers = {

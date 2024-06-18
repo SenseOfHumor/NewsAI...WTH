@@ -38,7 +38,7 @@ def card():  ## inspired by https://github.com/gamcoh/st-card
     from streamlit_card import card
     card = card(
         title=newsTitle,
-        text=newsDescription,
+        text=" ",
         image=data,
         styles={
             "card": {

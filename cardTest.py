@@ -10,7 +10,7 @@ import base64
 #     encoded = base64.b64encode(data)
 # data = "data:image/png;base64," + encoded.decode("utf-8")
 
-data = "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/14/00727b02-80ab-4afb-bf1a-07c5a0ff7b7c/thumbnail/1200x630/2aa6fd392738750a403e367872c26382/gettyimages-1129545363.jpg?v=5842509bb796a146f9b20d3e8b03dac6"
+data = "https://ichef.bbci.co.uk/news/240/cpsprodpb/6540/live/ee37e3a0-2cce-11ef-a044-9d4367d5b599.jpg"
 
 
 def card1():  ## inspired by https://github.com/gamcoh/st-card
